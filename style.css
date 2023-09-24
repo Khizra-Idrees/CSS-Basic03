@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+button{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.one{
+    background-color: #03A9F4;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 4px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.two{
+    background-color: grey;
+    padding: 11px;
+    font-size: 17px;
+    border-radius: 8px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.three{
+    background-color: green;
+    padding: 7px 15px;
+    font-size: 15px;
+    border-radius: 4px;
+    border: 2px solid;
+    color: white;
+    font-weight: 600;
+    border-color: #024e02;
+}
+
+.four{
+    background-color: red;
+    padding: 9px;
+    font-size: 16px;
+    border-radius: 20px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+
+}
+
+.five{
+    background-color: #f39c1a;
+    padding: 5px;
+    font-size: 17px;
+    border-radius: 2px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+    font-family: cursive;
+}
+
+.six{
+    background-color: #00BCD4;
+    padding: 10px;
+    font-size: 17px;
+    border-radius: 0px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.seven{
+    background-color: purple;
+    padding: 7px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+    font-family: emoji;
+}
+
+.eight{
+    font-family: math;
+    background-color: black;
+    padding: 7px;
+    font-size: 17px;
+    border-radius: 6px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.nine{
+    background-color: darkseagreen;
+    padding: 10px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+.ten{
+    background-color: #03A9F4;
+    padding: 7px 26px;
+    font-size: 17px;
+    border-radius: 17px;
+    border: 0;
+    color: white;
+    font-weight: 600;
+}
+
+div{
+    margin: 21px;
+    width: 254px;
+    border: 2px solid;
+    height: 372px;
+    text-align: center;
+}
+
+img{
+    margin: 2px;
+}
